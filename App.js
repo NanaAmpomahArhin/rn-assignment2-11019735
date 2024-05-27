@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text style={{ fontSize: 24 }}>
         My name is
-        <Text style={{ fontWeight: "bold" }}>Nana Ampomah Arhin</Text>
+        <Text style={{ fontWeight: "bold" }}> Nana Ampomah Arhin </Text>
       </Text>
       <StatusBar style="auto" />
     </View>
